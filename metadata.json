@@ -1,0 +1,6 @@
+{
+  "name": "Glaxyes AI",
+  "description": "Full-stack AI API gateway and developer platform powered by Google Gemini, featuring OpenAI-compatible /v1/chat/completions endpoints, API key management, daily and monthly quotas, and an admin console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
